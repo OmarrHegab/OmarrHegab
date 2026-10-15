@@ -45,26 +45,6 @@ I build data pipelines, automate workflows, and turn complex datasets into insig
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
-### Featured build · Shop Data Pipeline
-
-**An end-to-end data pipeline connecting streaming, processing, orchestration, and analytics.**
-
-Built with **Kafka, PySpark, Airflow, PostgreSQL, Docker, and Streamlit**.
-
-| Automated tasks | Data layers | Analytics interface |
-| :---: | :---: | :---: |
-| **8** | **3** | **Streamlit dashboard** |
-
-[Explore the architecture, code, and setup →](https://github.com/OmarrHegab/shop-data-pipeline)
-
-### More projects
-
-| Project | Focus |
-| :--- | :--- |
-| [Germany Solar Forecast Platform](https://github.com/OmarrHegab/germany-solar-forecast-platform) | Solar forecasting · Data science · Data engineering |
-| [KPI Dashboards](https://github.com/OmarrHegab/KPI-Dashboards) | KPI reporting · Data visualization |
-| [Automated Evaluation of Visualization Styles in Noisy Data](https://github.com/OmarrHegab/Automated-Evaluation-of-Visualization-Styles-in-Noisy-Data) | Python · Visualization evaluation |
-
 ### GitHub activity
 
 <div align="center">
